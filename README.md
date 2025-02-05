@@ -29,8 +29,7 @@ pip install tk
 
 ### 📥 Clone the Repository
 ```sh
-git clone https://github.com/your-repo/contact-book.git
-cd contact-book
+git clone https://github.com/charan300804/Contact-book.git
 ```
 
 ### ▶️ Run the Application
